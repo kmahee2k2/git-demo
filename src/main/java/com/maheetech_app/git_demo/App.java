@@ -9,6 +9,7 @@ public class App
 	
 	public void addData(String data)
 	{
+		if(data.equals("Mahee"))
 		System.out.println("data=="+data);
 		
 	}
