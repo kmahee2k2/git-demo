@@ -21,6 +21,11 @@ public class App
 		System.out.println()"Method added by );
 		
 	}
+	
+	public void add()
+	{
+		System.out.println()"Method added for branch );
+	}
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
