@@ -9,8 +9,10 @@ public class App
 	
 	public void addData(String data)
 	{
-		if(data.equals("Mahee"))
+		if(data.equals(Constant.Data))
 		System.out.println("data=="+data);
+		
+		
 		
 	}
     public static void main( String[] args )
